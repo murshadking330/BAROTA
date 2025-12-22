@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/go",
-      "destination": "/",
-      "permanent": false
-    }
-  ]
-}
