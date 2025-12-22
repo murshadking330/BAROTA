@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://BAROTA.vercel.app/</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://your-site.vercel.app/</loc></url>
+  <url><loc>https://your-site.vercel.app/offer.html</loc></url>
+  <url><loc>https://your-site.vercel.app/bonus.html</loc></url>
 </urlset>
