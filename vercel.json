@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/old",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
