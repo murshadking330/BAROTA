@@ -1,9 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/old",
+      "source": "/go",
       "destination": "/",
-      "permanent": true
+      "permanent": false
     }
   ]
 }
